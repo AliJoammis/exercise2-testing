@@ -1,0 +1,61 @@
+Car list
+(1) licencePlateSerial : 10102
+carModel : Opel
+subModel : vectra
+color : Black
+manufactureCountry : Germany
+modelYear : 2019
+(2) licencePlateSerial : 11117
+carModel : Mazda
+subModel : 3
+color : Green
+manufactureCountry : Japan
+modelYear : 2018
+(3) licencePlateSerial : 11110
+carModel : Toyota
+subModel : yaris
+color : Red
+manufactureCountry : Japan
+modelYear : 2018
+(4) licencePlateSerial : 11100
+carModel : Toyota
+subModel : yaris
+color : Red
+manufactureCountry : Japan
+modelYear : 2018
+(5) licencePlateSerial : 22228
+carModel : Toyota
+subModel : rx-5
+color : Red
+manufactureCountry : Japan
+modelYear : 2018
+(6) licencePlateSerial : 33331
+carModel : Mazda
+subModel : mx-3
+color : White
+manufactureCountry : Japan
+modelYear : 2020
+(7) licencePlateSerial : 33332
+carModel : Toyota
+subModel : nx-4
+color : Red
+manufactureCountry : Japan
+modelYear : 2020
+(8) licencePlateSerial : 22221
+carModel : Ford
+subModel : fiesta-Rx
+color : Black
+manufactureCountry : USA
+modelYear : 2020
+(9) licencePlateSerial : 22223
+carModel : Mazda
+subModel : cx-3x
+color : White
+manufactureCountry : Japan
+modelYear : 2020
+(10) licencePlateSerial : 22224
+carModel : Ford
+subModel : mondeo-Rx
+color : Red
+manufactureCountry : USA
+modelYear : 2018
